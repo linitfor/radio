@@ -56,32 +56,31 @@ jobs:
         run: |
          
           wget www.bestradio.com.tw/link.aspx
-          
+
+          rm -rf radio
+          touch radio
 
           # 好事989電台
          
-          echo "好事989電台," `grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 013` > a
+          echo "好事989電台,"`grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 013` >> radio
 
           # 好事903電台
-          grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 010 > b
+          echo "好事903電台,"`grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 010` >> radio
           
           # 港都983電台
-          grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 012 > c
-
+          echo "港都983電台,"`grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 012` >> radio
+         
           # 好事935電台
-          grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 011 > d
-
+          echo "好事935電台,"`grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 011` >> radio
+         
            
 
-          rm -rf radio
+   
 
-          touch radio
-          echo "好事989電台," > a1
-          paste a1 a >> radioa
+    
 
           
 
-          sed -i 's/,	/,/' radio > radio
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -106,7 +105,7 @@ jobs:
       - name: Remove redundancy
         run: |
 
-          rm -rf a1 a
+          rm -rf a1 a b c d
 
   
       - name: UpdateChannel Time 
