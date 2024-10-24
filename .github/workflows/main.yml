@@ -60,7 +60,7 @@ jobs:
 
           # 好事989電台
          
-          grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 013 > a
+          echo "好事989電台," `grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 013` > a
 
           # 好事903電台
           grep "bestradiow-hichannel.cdn" ./link.aspx | grep -v "src" | cut -d '"' -f 2 | grep 010 > b
