@@ -76,8 +76,8 @@ jobs:
           rm -rf radio
 
           touch radio
-          echo "好事989電台," >> radio
-          cat a >> radio
+          echo "好事989電台," > a1
+          paste a1 a >> radio
 
           
 
@@ -106,7 +106,7 @@ jobs:
       - name: Remove redundancy
         run: |
 
-          
+          rm -rf a1 a
 
   
       - name: UpdateChannel Time 
