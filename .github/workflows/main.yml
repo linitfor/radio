@@ -77,11 +77,11 @@ jobs:
 
           touch radio
           echo "好事989電台," > a1
-          paste a1 a >> radio
+          paste a1 a >> radioa
 
           
 
-
+          sed -i 's/,	/,/' radio > radio
 
       - name: Set up Python
         uses: actions/setup-python@v2
