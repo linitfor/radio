@@ -1,0 +1,446 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="refresh" content="86400" /><title>
+	好事聯播網 bestradio | 廣播收聽率第一
+</title><meta content="廣播收聽率第一,港都電台,電台,線上廣播電台,廣播電台,收聽第一,好事聯播網,好事聯播網bestradio" name="keywords" /><link rel="stylesheet" type="text/css" href="css/css.css" /></head>
+<body>
+    <table width="836" border="0" align="center">
+        <tr>
+            <td>
+                <table width="173" height="50" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="173" valign="top" class="bubg">
+                            <table width="170" border="0" align="right" cellspacing="0">
+                                <tr>
+                                    <td width="28" height="38">
+                                        <div align="center">
+                                            <a href="http://www.facebook.com/best989?group_id=0&amp;filter=2" target="_blank">
+                                                <img src="images/fb-icon.gif" width="26" height="26" border="0" title="好事989電台粉絲團" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td width="26">
+                                        <div align="center">
+                                            <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=212" target="_blank">-->
+                                            <a style="cursor: pointer;" onclick="PlayRadio('989')">
+                                                <img src="images/radio-icon.gif" width="26" height="26" border="0" title="線上收聽" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <!--<td width="26"><div align="center"> <a href="http://hichannel.hinet.net/radio/mobile/index.do?id=212" target="_blank"> <img src="images/phone_icon.gif" width="26" height="26" border="0" title="好事989電台手機收聽" /></a></div></td>-->
+                                    <td width="83">
+                                        <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=212" target="_blank">-->
+                                        <a style="cursor: pointer;" onclick="PlayRadio('989')">
+                                            <img src="images/989.gif" width="81" height="17" border="0" alt="線上收聽" title="線上收聽" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table width="173" height="50" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="173" valign="top" class="bubg">
+                            <table width="170" border="0" align="right" cellspacing="0">
+                                <tr>
+                                    <td width="28" height="40">
+                                        <div align="center">
+                                            <a href="http://www.facebook.com/best903?group_id=0" target="_blank">
+                                                <img src="images/fb-icon.gif" width="26" height="26" border="0" title="好事903電台粉絲團" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td width="26">
+                                        <div align="center">
+                                            <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=211" target="_blank">-->
+                                            <a style="cursor: pointer;" onclick="PlayRadio('903')">
+                                                <img src="images/radio-icon.gif" width="26" height="26" border="0" title="線上收聽" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <!--<td width="26"><div align="center"> <a href="http://hichannel.hinet.net/radio/mobile/index.do?id=211" target="_blank"> <img src="images/phone_icon.gif" width="26" height="26" border="0" title="好事903電台手機收聽" /></a></div></td>-->
+                                    <td width="83">
+                                        <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=211" target="_blank">-->
+                                        <a style="cursor: pointer;" onclick="PlayRadio('903')">
+                                            <img src="images/903.gif" width="81" height="17" border="0" alt="線上收聽" title="線上收聽" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table width="173" height="50" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="173" valign="top" class="bubg">
+                            <table width="170" border="0" align="right" cellspacing="0">
+                                <tr>
+                                    <td width="28" height="43">
+                                        <div align="center">
+                                            <a href="http://www.facebook.com/best983" target="_blank">
+                                                <img src="images/fb-icon.gif" width="26" height="26" border="0" title="港都983電台粉絲團" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td width="26">
+                                        <div align="center">
+                                            <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=213" target="_blank">-->
+                                            <a style="cursor: pointer;" onclick="PlayRadio('983')">
+                                                <img src="images/radio-icon.gif" width="26" height="26" border="0" title="線上收聽" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <!--<td width="26"><div align="center"> <a href="http://hichannel.hinet.net/radio/mobile/index.do?id=213" target="_blank"> <img src="images/phone_icon.gif" width="26" height="26" border="0" title="港都983電台手機收聽" /></a></div></td>-->
+                                    <td width="83">
+                                        <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=213" target="_blank">-->
+                                        <a style="cursor: pointer;" onclick="PlayRadio('983')">
+                                            <img src="images/983.gif" width="81" height="17" border="0" alt="線上收聽" title="線上收聽" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table width="173" height="50" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="173" valign="top" class="bubg">
+                            <table width="170" border="0" align="right" cellspacing="0">
+                                <tr>
+                                    <td width="28" height="38">
+                                        <div align="center">
+                                            <a href="http://www.facebook.com/best935" target="_blank">
+                                                <img src="images/fb-icon.gif" width="26" height="26" border="0" title="好事935電台粉絲團" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <td width="26">
+                                        <div align="center">
+                                            <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=303" target="_blank">-->
+                                            <a style="cursor: pointer;" onclick="PlayRadio('935')">
+                                                <img src="images/radio-icon.gif" width="26" height="26" border="0" title="線上收聽" />
+                                            </a>
+                                        </div>
+                                    </td>
+                                    <!--<td width="26"><div align="center"> <a href="http://hichannel.hinet.net/radio/mobile/index.do?id=303" target="_blank"> <img src="images/phone_icon.gif" width="26" height="26" border="0" title="好事935電台手機收聽" /></a></div></td>-->
+                                    <td width="83">
+                                        <!--<a href="http://hichannel.hinet.net/player/radio/index.jsp?radio_id=303" target="_blank">-->
+                                        <a style="cursor: pointer;" onclick="PlayRadio('935')">
+                                            <img src="images/935.gif" width="81" height="17" border="0" alt="線上收聽" title="線上收聽" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr id="VideoPlayer" style="display: none;">
+            <td colspan="4" class="inner">
+                <div class="volBar">
+                    <span id="palyAnimate"></span>
+                    <span id="videoName">請選擇電台播放</span>
+                    <span id="playBtn" onclick="ClickVideoOption('playBtn')"></span>
+                    <span id="pauseBtn" onclick="ClickVideoOption('pauseBtn')"></span>
+                    <span id="stopBtn" onclick="ClickVideoOption('stopBtn')"></span>
+                    <span id="rangeValueIcon" onclick="ClickVideoOption('rangeValueIcon')"></span>
+                    <input type="range" class="volRange" value="50" min="0" max="100" onmousemove="rangeBar(this.value)" ontouchmove="rangeBar(this.value)" onclick="rangeBar(this.value)" ontouchend="rangeBar(this.value)" />
+                    <span id="rangeValue">50</span>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <video id="video1" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=k-xzRWH8xkKNDGWbWPwJZA&expires=1730240808"></video>
+    <video id="video2" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=c60wo9gUUa9gVxmqM9mbWA&expires=1730240808"></video>
+    <video id="video3" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=zMQf3O5jYauI-M2sux-DNA&expires=1730240808"></video>
+    <video id="video4" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=Y5bGeO_41t2-8jX7V_FuBQ&expires=1730240808"></video>
+</body>
+</html>
+
+<!--video hls play-->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/hls.js"></script>
+
+<script type="text/javascript">
+    function rangeBar(value) {
+        console.log(value)
+        document.getElementById('rangeValue').innerHTML = value;
+        var vid1 = document.getElementById("video1");
+        var vid2 = document.getElementById("video2");
+        var vid3 = document.getElementById("video3");
+        var vid4 = document.getElementById("video4");
+        vid1.volume = value / 100;
+        vid2.volume = value / 100;
+        vid3.volume = value / 100;
+        vid4.volume = value / 100;
+        setCookie('RangeValue', value, 30);
+        RangeBarSetMuted()
+    }
+
+    function RangeBarSetMuted() {
+        var value = document.getElementById('rangeValue').innerHTML;
+        if (value > 0)
+            $("#rangeValueIcon").removeClass("muted")
+        else
+            $("#rangeValueIcon").addClass("muted")
+    }
+
+    function iOS() {
+        return [
+            'iPad Simulator',
+            'iPhone Simulator',
+            'iPod Simulator',
+            'iPad',
+            'iPhone',
+            'iPod'
+        ].includes(navigator.platform)
+            // iPad on iOS 13 detection
+            || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+    }
+
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+    //989.903.983.935
+    $(document).ready(function () {
+        //eraseCookie('RadioChannel');
+        //eraseCookie('RangeValue');
+        //eraseCookie('ClickVideoOption');
+        console.log(iOS());
+        if (!iOS()) {
+            var RadioChannel = [
+                "https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=k-xzRWH8xkKNDGWbWPwJZA&expires=1730240808"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=c60wo9gUUa9gVxmqM9mbWA&expires=1730240808"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=zMQf3O5jYauI-M2sux-DNA&expires=1730240808"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=Y5bGeO_41t2-8jX7V_FuBQ&expires=1730240808"];
+            if (Hls.isSupported()) {
+                var video1 = document.getElementById('video1');
+                var hls = new Hls();
+                hls.loadSource(RadioChannel[0]);
+                hls.attachMedia(video1);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    //video1.play();
+                });
+                //903
+                var video2 = document.getElementById('video2');
+                var hls = new Hls();
+                hls.loadSource(RadioChannel[1]);
+                hls.attachMedia(video2);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    //video2.play();
+                });
+                //983
+                var video3 = document.getElementById('video3');
+                var hls = new Hls();
+                hls.loadSource(RadioChannel[2]);
+                hls.attachMedia(video3);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    //video3.play();
+                });
+                //935
+                var video4 = document.getElementById('video4');
+                var hls = new Hls();
+                hls.loadSource(RadioChannel[3]);
+                hls.attachMedia(video4);
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    //video4.play();
+                });
+            }
+            else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video1.src = RadioChannel[0];
+                video1.addEventListener('canplay', function () {
+                    //video1.play();
+                });
+                video2.src = RadioChannel[1];
+                video2.addEventListener('canplay', function () {
+                    //video2.play();
+                });
+                video3.src = RadioChannel[2];
+                video3.addEventListener('canplay', function () {
+                    //video3.play();
+                });
+                video4.src = RadioChannel[3];
+                video4.addEventListener('canplay', function () {
+                    //video4.play();
+                });
+            }
+        }
+
+        var ClickVideoOption = getCookie('ClickVideoOption');
+        var RadioChannel = getCookie('RadioChannel');
+        var RangeValue = getCookie('RangeValue');
+        if (ClickVideoOption && ClickVideoOption == "pauseBtn") {
+            video1.pause();
+            video2.pause();
+            video3.pause();
+            video4.pause();
+        }
+        else if (ClickVideoOption && ClickVideoOption == "stopBtn") {
+            eraseCookie('RadioChannel');
+            eraseCookie('RangeValue');
+            eraseCookie('ClickVideoOption');
+            $("#VideoPlayer").hide();
+        }
+        else {
+            if (RadioChannel) {
+                PlayRadio(RadioChannel);
+            }
+            if (RangeValue) {
+                rangeBar(RangeValue);
+                $(".volRange").val(RangeValue)
+            }
+        }
+
+        if (RadioChannel == null || (ClickVideoOption && ClickVideoOption == "pauseBtn"))
+            window.parent.document.getElementById("RadioFrame").height = "50px";
+    });
+
+    function PlayRadio(RadioChannel) {
+        video1.pause();
+        video2.pause();
+        video3.pause();
+        video4.pause();
+
+        if (RadioChannel == "989") {
+            var promise = video1.play();
+            if (promise !== undefined) {
+                promise.then(_ => {
+                    $("#videoName").html('好事989電台');
+                    video1.muted = false;
+                    video1.play();
+                    $("#palyAnimate").addClass("startMusic")
+                    $("#VideoPlayer").show();
+                    RangeBarSetMuted();
+                }).catch(error => {
+                    console.log(error)
+                    //if (confirm('即將播放好事989電台'))
+                    //    PlayRadio('989');
+                });
+            }
+        }
+        else if (RadioChannel == "903") {
+            var promise = video2.play();
+            if (promise !== undefined) {
+                promise.then(_ => {
+                    $("#videoName").html('好事903電台');
+                    video2.muted = false;
+                    video2.play();
+                    $("#palyAnimate").addClass("startMusic")
+                    $("#VideoPlayer").show();
+                    RangeBarSetMuted();
+                }).catch(error => {
+                    console.log(error)
+                    //if (confirm('即將播放好事903電台'))
+                    //    PlayRadio('903');
+                });
+            }
+        }
+        else if (RadioChannel == "983") {
+            var promise = video3.play();
+            if (promise !== undefined) {
+                promise.then(_ => {
+                    $("#videoName").html('港都983電台');
+                    video3.muted = false;
+                    video3.play();
+                    $("#palyAnimate").addClass("startMusic")
+                    $("#VideoPlayer").show();
+                    RangeBarSetMuted();
+                }).catch(error => {
+                    console.log(error)
+                    //if (confirm('即將播放港都983電台'))
+                    //    PlayRadio('983');
+                });
+            }
+        }
+        else if (RadioChannel == "935") {
+            var promise = video4.play();
+            if (promise !== undefined) {
+                promise.then(_ => {
+                    $("#videoName").html('好事935電台');
+                    video4.muted = false;
+                    video4.play();
+                    $("#palyAnimate").addClass("startMusic")
+                    $("#VideoPlayer").show();
+                    RangeBarSetMuted();
+                }).catch(error => {
+                    console.log(error)
+                    //if (confirm('即將播放好事935電台'))
+                    //    PlayRadio('935');
+                });
+            }
+        }
+
+        setCookie('RadioChannel', RadioChannel, 30);
+        setCookie('ClickVideoOption', 'playBtn', 30);
+        console.log("Now Play:" + RadioChannel);
+        window.parent.document.getElementById("RadioFrame").height = "120px";
+    }
+
+    function ClickVideoOption(objName) {
+        var RadioChannel = getCookie('RadioChannel');
+        //if (RadioChannel) {
+        //    PlayRadio(RadioChannel);
+        //}
+
+        setCookie('ClickVideoOption', objName, 30);
+        if (objName == "playBtn" && RadioChannel) {
+            PlayRadio(RadioChannel);
+            $("#palyAnimate").addClass("startMusic")
+        }
+        else if (objName == "pauseBtn") {
+            video1.pause();
+            video2.pause();
+            video3.pause();
+            video4.pause();
+            $("#palyAnimate").removeClass("startMusic")
+        }
+        else if (objName == "stopBtn") {
+            $("#VideoPlayer").hide();
+            video1.pause();
+            video2.pause();
+            video3.pause();
+            video4.pause();
+            eraseCookie('RadioChannel');
+            eraseCookie('RangeValue');
+            eraseCookie('ClickVideoOption');
+            window.parent.document.getElementById("RadioFrame").height = "50px";
+            $("#palyAnimate").removeClass("startMusic")
+            return false;
+        }
+        else if (objName == "rangeValueIcon") {
+            $(".volRange").val('0');
+            rangeBar('0');
+        }
+    }
+</script>
