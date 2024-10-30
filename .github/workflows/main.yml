@@ -54,7 +54,7 @@ jobs:
          
       - name: Get Source
         run: |
-         
+          rm -rf link.aspx
           wget www.bestradio.com.tw/link.aspx
 
           rm -rf radio
