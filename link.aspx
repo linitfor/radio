@@ -161,10 +161,10 @@
             </td>
         </tr>
     </table>
-    <video id="video1" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://stream.rcs.revma.com/fkdywbc59duvv/hls.m3u8"></video>
-    <video id="video2" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://stream.rcs.revma.com/zr7xzec59duvv/hls.m3u8"></video>
-    <video id="video3" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://stream.rcs.revma.com/q2m07dc59duvv/hls.m3u8"></video>
-    <video id="video4" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://stream.rcs.revma.com/vh0xgcc59duvv/hls.m3u8"></video>
+    <video id="video1" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=gIQxUaNPg-3x4jKieym7PA&expires=1730546470"></video>
+    <video id="video2" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=3I8dPxz-NIyknLCQJnSUhw&expires=1730546470"></video>
+    <video id="video3" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=FnoHIWW5MJkR7XX7fzG87g&expires=1730546470"></video>
+    <video id="video4" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=Qohr2X9PvG9LZMga4Vvc2g&expires=1730546470"></video>
 </body>
 </html>
 
@@ -240,10 +240,10 @@
         console.log(iOS());
         if (!iOS()) {
             var RadioChannel = [
-                "https://stream.rcs.revma.com/fkdywbc59duvv/hls.m3u8"
-                , "https://stream.rcs.revma.com/zr7xzec59duvv/hls.m3u8"
-                , "https://stream.rcs.revma.com/q2m07dc59duvv/hls.m3u8"
-                , "https://stream.rcs.revma.com/vh0xgcc59duvv/hls.m3u8"];
+                "https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=gIQxUaNPg-3x4jKieym7PA&expires=1730546470"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=3I8dPxz-NIyknLCQJnSUhw&expires=1730546470"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=FnoHIWW5MJkR7XX7fzG87g&expires=1730546470"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=Qohr2X9PvG9LZMga4Vvc2g&expires=1730546470"];
             if (Hls.isSupported()) {
                 var video1 = document.getElementById('video1');
                 var hls = new Hls();
