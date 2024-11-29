@@ -161,10 +161,10 @@
             </td>
         </tr>
     </table>
-    <video id="video1" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=JBJgEGkZSrlT7G2ivXO31w&expires=1732962692"></video>
-    <video id="video2" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=jN8l098vAqzWpinJq5yL_Q&expires=1732962692"></video>
-    <video id="video3" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=ZAG39P4LdXhcZoLXPaaEAw&expires=1732962692"></video>
-    <video id="video4" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=d8EOT28lc3cuzlpjSzQglg&expires=1732962692"></video>
+    <video id="video1" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=scvW6ODWTgnc3rw30sr3bA&expires=1732965744"></video>
+    <video id="video2" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=FhqLU5IvLOm2hQ6mb65b7g&expires=1732965744"></video>
+    <video id="video3" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=Y7hOod6vt9YTvS11Ex4rYw&expires=1732965744"></video>
+    <video id="video4" controls height="100" width="200" style="display: none" volume="0.5" muted="true" src="https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=LsB1Qael0SjKeuvDThMAoA&expires=1732965744"></video>
 </body>
 </html>
 
@@ -240,10 +240,10 @@
         console.log(iOS());
         if (!iOS()) {
             var RadioChannel = [
-                "https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=JBJgEGkZSrlT7G2ivXO31w&expires=1732962692"
-                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=jN8l098vAqzWpinJq5yL_Q&expires=1732962692"
-                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=ZAG39P4LdXhcZoLXPaaEAw&expires=1732962692"
-                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=d8EOT28lc3cuzlpjSzQglg&expires=1732962692"];
+                "https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=scvW6ODWTgnc3rw30sr3bA&expires=1732965744"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/playlist.m3u8?token=FhqLU5IvLOm2hQ6mb65b7g&expires=1732965744"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000012/playlist.m3u8?token=Y7hOod6vt9YTvS11Ex4rYw&expires=1732965744"
+                , "https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=LsB1Qael0SjKeuvDThMAoA&expires=1732965744"];
             if (Hls.isSupported()) {
                 var video1 = document.getElementById('video1');
                 var hls = new Hls();
